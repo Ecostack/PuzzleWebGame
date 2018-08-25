@@ -1,0 +1,19 @@
+# Eclipse Files #
+bin
+target
+.metadata
+.settings
+test-output
+.project
+
+# Java Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# DB Files #
+*.h2.db
+
